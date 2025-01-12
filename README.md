@@ -1,0 +1,1 @@
+This repository demonstrates a common CSS bug related to specificity issues.  The bug occurs because of conflicting selectors that unintentionally override styles. The solution involves understanding and correctly applying CSS specificity rules to ensure expected styles are always applied.
