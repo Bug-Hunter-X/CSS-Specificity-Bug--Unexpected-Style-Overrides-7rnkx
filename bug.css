@@ -1,0 +1,1 @@
+The CSS specificity rules can lead to unexpected styles being applied if not carefully managed.  For instance, an inline style might override a more specific class selector unexpectedly, or a less specific selector might override a more specific one due to the order they appear in the stylesheet.
