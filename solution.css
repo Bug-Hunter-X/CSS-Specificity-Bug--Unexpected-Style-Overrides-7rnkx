@@ -1,0 +1,1 @@
+To fix the specificity issue, we can use more specific selectors or the !important flag (used sparingly).  Also, ensure the order of your selectors and styles in the CSS file follow a logical, prioritized sequence.   The solution file showcases correct application of specific selectors to address the bug.
